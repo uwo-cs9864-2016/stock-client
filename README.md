@@ -1,5 +1,7 @@
 # Stock Client Library
 
+[![Documentaion](https://readthedocs.org/projects/docs/badge/?version=latest)](http://uwo-cs9864-2016.github.io/stock-client/docs/)
+
 ## Usage
 
 ```js
